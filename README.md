@@ -6,3 +6,13 @@
 - Seletores, cores e fontes
 - Layouts simples com Flexbox
 - Mini projetos práticos para treino
+
+## 🛠 Tecnologias usadas
+
+- **HTML5**
+- **CSS3**
+- Editor de código: *VS Code
+
+## 🚀 Objetivo do repositório
+
+Aprender de forma prática os fundamentos do front-end, criando páginas simples, entendendo como HTML estrutura o conteúdo e como o CSS estiliza e organiza visualmente os elementos.
