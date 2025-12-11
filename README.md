@@ -9,6 +9,11 @@ Aqui você vai encontrar exercícios, testes e pequenos projetos feitos para pra
 - Praticar construção de páginas web simples.
 - Criar uma base sólida para estudar JavaScript no futuro.
 
+## 📁 Estrutura do Repositório
+- `/exercicios` – pequenos exercícios para treinar tags e estilos.
+- `/projetos` – mini projetos desenvolvidos ao longo dos estudos.
+- `/anotacoes` – comentários e resumos sobre o que estou aprendendo.
+
 ## 🛠️ Tecnologias utilizadas
 - **HTML5**
 - **CSS3**
