@@ -13,8 +13,6 @@ Aqui você vai encontrar exercícios, testes e pequenos projetos feitos para pra
 - **HTML5**
 - **CSS3**
 
----
-
 ## 📚 Progresso
 Este repositório será atualizado conforme eu avançar nos estudos.  
 A ideia é acompanhar a evolução e manter tudo organizado.
