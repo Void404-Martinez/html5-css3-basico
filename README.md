@@ -8,3 +8,7 @@ Aqui você vai encontrar exercícios, testes e pequenos projetos feitos para pra
 - Aprender a estilizar páginas usando CSS.
 - Praticar construção de páginas web simples.
 - Criar uma base sólida para estudar JavaScript no futuro.
+
+## 🛠️ Tecnologias utilizadas
+- **HTML5**
+- **CSS3**
